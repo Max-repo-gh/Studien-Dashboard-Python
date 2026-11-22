@@ -1,6 +1,6 @@
-# Studien-Dashboard Cyber Security
+# Studien Dashboard Cyber Security
 
-Das Studien-Dashboard ist eine mit Python und Streamlit entwickelte Webanwendung. Es ermöglicht die Eingabe und Speicherung von Noten sowie die Berechnung des ECTS-, Prüfungs- und zeitlichen Studienfortschritts.
+Das Studien Dashboard ist eine mit Python und Streamlit entwickelte Webanwendung. Es ermöglicht die Eingabe und Speicherung von Noten sowie die Berechnung des ECTS, Prüfungs und zeitlichen Studienfortschritts.
 
 ## Voraussetzungen
 
@@ -11,9 +11,9 @@ Das Studien-Dashboard ist eine mit Python und Streamlit entwickelte Webanwendung
 ## Installation und Start
 
 1. Das Repository über **Code → Download ZIP** herunterladen.
-2. Die ZIP-Datei vollständig entpacken.
-3. Prüfen, ob sich die Dateien `Dashboard_Cybersecurity.py`, `Studien-Dashboard_starten.bat` und `requirements.txt` im gleichen Ordner befinden.
-4. `Studien-Dashboard_starten.bat` doppelt anklicken.
+2. Die ZIP Datei vollständig entpacken.
+3. Prüfen, ob sich die Dateien `Dashboard_Cybersecurity.py`, `Startdatei.bat` und `requirements.txt` im gleichen Ordner befinden.
+4. `Startdatei.bat` doppelt anklicken.
 5. Das Dashboard wird automatisch im Browser geöffnet.
 
 Die Startdatei prüft, ob Python und Streamlit verfügbar sind. Falls Streamlit noch nicht installiert ist, wird die Installation beim ersten Start automatisch durchgeführt.
