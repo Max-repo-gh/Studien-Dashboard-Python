@@ -13,7 +13,7 @@ Das Studien Dashboard ist eine mit Python und Streamlit entwickelte Webanwendung
 1. Das Repository über **Code → Download ZIP** herunterladen.
 2. Die ZIP Datei vollständig entpacken.
 3. Prüfen, ob sich die Dateien `Dashboard_Cybersecurity.py`, `Startdatei.bat` und `requirements.txt` im gleichen Ordner befinden.
-4. `Startdatei.bat` doppelt anklicken.
+4. `Startdatei.bat` doppelt anklicken. Falls beim ersten Starten der Startdatei am Ende eine E-Mail Adresse gefordert wrid, kann dieses Feld leer gelassen werden und mit Enter übersprungen werden.
 5. Das Dashboard wird automatisch im Browser geöffnet.
 
 Die Startdatei prüft, ob Python und Streamlit verfügbar sind. Falls Streamlit noch nicht installiert ist, wird die Installation beim ersten Start automatisch durchgeführt.
